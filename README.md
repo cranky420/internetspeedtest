@@ -17,16 +17,16 @@ Open-source CLI internet speed tool.
 on any linux distro that has python and pip insttalled
 
 if not installed :
-sudo apt install pipx
-pipx install internetspeed
+<!-- sudo apt install pipx
+pipx install internetspeed -->
 
 if already present:
-python3 -m venv ~/internetspeed-env
+<!-- python3 -m venv ~/internetspeed-env
 export PATH=~/internetspeed-env/bin:$PATH
 pip install internetspeed
-internetspeed
+internetspeed -->
 
-```bash
+<!-- ```bash WIP -->
 pip install git+https://github.com/cranky420/internetspeed.git
 ```
 
